@@ -1,6 +1,8 @@
 {
-  "name": "",
-  "description": "",
+  "name": "PromptForge",
+  "description": "An AI-powered prompt engineer that optimizes inputs for better generative results, with Vercel deployment support.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
