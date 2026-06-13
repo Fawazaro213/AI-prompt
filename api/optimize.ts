@@ -36,7 +36,7 @@ export default async function handler(req: any, res: any) {
         "X-Title": "Prompt Lab" // Optional, for OpenRouter rankings
       },
       body: JSON.stringify({
-        model: "google/gemini-2.0-flash-lite-preview-02-05:free", // Using a free model available on OpenRouter
+        model: "google/gemma-4-31b-it:free", // Using a free model available on OpenRouter
         messages: [
           {
             role: "system",
